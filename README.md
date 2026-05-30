@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎬 AE-Dev
+# 🎬 AE-Skills
 
 **AI 驱动的 Adobe After Effects 自动化技能包**
 
