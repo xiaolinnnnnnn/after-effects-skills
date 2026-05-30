@@ -1,0 +1,6 @@
+interface:
+  display_name: "AE Generation"
+  short_description: "Automate After Effects with reliable JSX."
+  default_prompt: "Use $ae-dev to create an editable After Effects AE Generation animation."
+policy:
+  allow_implicit_invocation: true
